@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TechDesg</string>
+    <string name="welcome">Welcome Metehan</string>
+    <string name="find_your_cars">Find Your Cars!</string>
+    <string name="search_cars">Search cars</string>
+    <string name="available_car_s">Available Car\'s</string>
+    <string name="bmw_5_series_coupe">BMW 5 Series Coupe</string>
+    <string name="_250_day">$250/day</string>
+    <string name="mercedes_benz_s_class">Mercedes Benz S Class</string>
+    <string name="_280_day">$280/day</string>
+    <string name="audi_a4">Audi A4</string>
+    <string name="best_car_s">Best Car\'s</string>
+    <string name="_400">$400</string>
+    <string name="sport_fast">Sport, Fast</string>
+    <string name="ferrari_458_speciale">Ferrari 458 Speciale</string>
+    <string name="home">Home</string>
+    <string name="collection">Collection</string>
+    <string name="location">Location</string>
+    <string name="profile">Profile</string>
+    <string name="_380">$380</string>
+    <string name="lamborghini_huracan">Lamborghini Huracan</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TechDesg</string>
+    <string name="welcome">Hoşgeldin Metehan</string>
+    <string name="find_your_cars">İstediğin Arabayı Bul!</string>
+    <string name="search_cars">Arabaları ara</string>
+    <string name="available_car_s">Kullanılabilir Arabalar</string>
+    <string name="bmw_5_series_coupe">BMW 5 Serisi Spor</string>
+    <string name="_250_day">₺1000/gün</string>
+    <string name="mercedes_benz_s_class">Mercedes Benz S Sınıf</string>
+    <string name="_280_day">₺1200/gün</string>
+    <string name="audi_a4">Audi A4</string>
+    <string name="best_car_s">En İyi Araba</string>
+    <string name="_400">₺2400</string>
+    <string name="sport_fast">Spor, Hızlı</string>
+    <string name="ferrari_458_speciale">Ferrari 458 Özel</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="collection">Koleksiyon</string>
+    <string name="location">Konum</string>
+    <string name="profile">Profil</string>
+    <string name="_380">₺2200</string>
+    <string name="lamborghini_huracan">Lamborghini Huracan</string>
+
+</resources>
